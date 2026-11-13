@@ -1,0 +1,81 @@
+Queue size: 18
+<Front>
+Name                      Average
+Darran All                 90.0
+Joe Smith                  64.0
+Susan Hudson               82.3
+William Z. Thompson        65.7
+Marion Burton              78.0
+Lucy Williamson            61.0
+Steve Rogers               76.0
+Paul Olson                 92.0
+Lauren McMahan             62.7
+Rachel Nelson              77.0
+Stuart Hudson              85.0
+Tommy Richards             72.3
+Shannon Jason Blackston    65.7
+Greg Caston                77.7
+Paulette Edwards           81.7
+Robert Miller              74.7
+Diane Robbins              63.3
+Charles Sullivan           69.7
+<Rear>
+
+Queue size: 22
+<Front>
+Name                      Average
+Joe Smith                  64.0
+Susan Hudson               82.3
+William Z. Thompson        65.7
+Marion Burton              78.0
+Lucy Williamson            61.0
+Steve Rogers               76.0
+Paul Olson                 92.0
+Lauren McMahan             62.7
+Rachel Nelson              77.0
+Stuart Hudson              85.0
+Tommy Richards             72.3
+Shannon Jason Blackston    65.7
+Greg Caston                77.7
+Paulette Edwards           81.7
+Robert Miller              74.7
+Diane Robbins              63.3
+Charles Sullivan           69.7
+Paul Yelverton             69.3
+Shirley Loughlin           84.0
+Wilda Patterson            81.7
+Barbara Lawson             72.7
+James Calhoun              64.3
+<Rear>
+
+Final Queue:
+Queue size: 25
+<Front>
+Name                      Average
+Joe Smith                  64.0
+Susan Hudson               82.3
+William Z. Thompson        65.7
+Marion Burton              78.0
+Lucy Williamson            61.0
+Steve Rogers               76.0
+Paul Olson                 92.0
+Lauren McMahan             62.7
+Rachel Nelson              77.0
+Stuart Hudson              85.0
+Tommy Richards             72.3
+Shannon Jason Blackston    65.7
+Greg Caston                77.7
+Paulette Edwards           81.7
+Robert Miller              74.7
+Diane Robbins              63.3
+Charles Sullivan           69.7
+Paul Yelverton             69.3
+Shirley Loughlin           84.0
+Wilda Patterson            81.7
+Barbara Lawson             72.7
+James Calhoun              64.3
+Kenneth Watson             52.7
+Walter Edwards             56.0
+Patrick Moore              82.7
+<Rear>
+
